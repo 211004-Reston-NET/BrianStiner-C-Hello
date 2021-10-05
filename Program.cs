@@ -11,7 +11,7 @@ namespace BrianStiner_C_Hello
             Console.WriteLine("Give me your name.");
             name = Console.ReadLine();
 
-            Console.WriteLine("Hello there, "+ name + "!");
+            Console.WriteLine(&"Welcome to the jungle, {name}! ");
 
         }
     }
